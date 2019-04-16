@@ -20,7 +20,7 @@ footer_settings:
 
 grid_settings:
   overlay_opacity: 0.8
-  grid_spacing: 50
+  grid_spacing: 10
 
 social_settings:
   facebook_url: 'https://www.facebook.com/subha9498'
