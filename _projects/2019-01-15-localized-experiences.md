@@ -1,6 +1,6 @@
 ---
 title: 'Designing Local Shopping Experiences for Travellers'
-subtitle: 'UX Research and Design Project'
+subtitle: 'UX Design'
 date: 2019-01-15 00:00:00
 featured_image: '/images/local_1.jpg'
 ---
