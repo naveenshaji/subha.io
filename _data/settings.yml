@@ -16,11 +16,11 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: User Experience Designer
+  footer_tagline: hi@subha.io
 
 grid_settings:
   overlay_opacity: 0.8
-  grid_spacing: 10
+  grid_spacing: 50
 
 social_settings:
   facebook_url: 'https://www.facebook.com/subha9498'
