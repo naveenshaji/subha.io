@@ -89,6 +89,8 @@ The first launch with a limited amount of listings  - dense but in a small area 
 
 ## Information Architecture
 
+![](/images/local_5.jpg)
+
 ---
 
 ## Wireframes
