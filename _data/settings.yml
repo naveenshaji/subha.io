@@ -10,8 +10,8 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-    # - title: 'About'
-    #   url: '/about'
+    - title: 'About'
+      url: '/about'
 
 footer_settings:
   logo_image: 
