@@ -2,10 +2,10 @@
 title: 'Elevating employee productivity in the workplace'
 subtitle: 'UX Research and Design'
 date: 2019-02-30 00:00:00
-featured_image: '/images/productivity_1.jpg'
+featured_image: '/images/productivity_0.jpg'
 ---
 
-![](/images/productivity_1.jpg)
+![](/images/productivity_0.jpg)
 
 ---
 
