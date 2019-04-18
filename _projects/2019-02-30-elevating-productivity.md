@@ -154,7 +154,9 @@ The Visual Design of this app including all aspects of the UI and color palette 
 ## User Flows
 
 ![](/images/uf_prod_1.jpg)
+
 ![](/images/monthly_prod.jpg)
+
 ![](/images/mail_prod.jpg)
 
 ---
@@ -210,4 +212,5 @@ Separate pages to view full lists were cumbersome as can been seen from the insi
 ## Updated User Flows
 
 ![](/images/uf_prod.jpg)
+
 ![](/images/uf_speachtotext.jpg)
