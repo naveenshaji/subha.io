@@ -19,7 +19,7 @@ footer_settings:
   footer_tagline: hi@subha.io
 
 grid_settings:
-  overlay_opacity: 0.95
+  overlay_opacity: 0.85
   grid_spacing: 15
 
 social_settings:
