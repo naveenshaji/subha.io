@@ -23,9 +23,9 @@ grid_settings:
   grid_spacing: 15
 
 social_settings:
-  facebook_url: 'https://www.facebook.com/subha9498'
+  facebook_url: ''
   twitter_url: ''
-  instagram_url: 'https://www.instagram.com/subha.govindaraj/'
+  instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -38,7 +38,7 @@ social_settings:
   android_url: ''
   tumblr_url: ''
   dribbble_url: ''
-  behance_url: 'https://www.behance.net/subhagovindaraj'
+  behance_url: ''
   deviantart_url: ''
   github_url: ''
   reddit_url: ''
